@@ -206,7 +206,7 @@ Uses Provider pattern with 4 main providers:
 
 **UI/Design:**
 - google_fonts - Typography
-- flutter_glassmorphism - Glass effects
+- Custom glassmorphic widgets - Glass effects (built-in)
 - cached_network_image - Image caching
 - shimmer - Loading animations
 - flutter_svg - SVG support
